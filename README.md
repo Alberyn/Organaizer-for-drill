@@ -34,7 +34,8 @@
 **Программное обеспечение**: SolidWorks, CorelDraw, Prusia Slicer
 
 ![model](Images/Модель1.jpg)
-![сборка верхнего ящика](https://github.com/Alberyn/Organaizer-for-drill/assets/78211591/0293a8cd-3ae7-4645-95bb-384a51be10df)
+
+![Пример работы задвижки](https://github.com/Alberyn/Organaizer-for-drill/assets/78211591/0293a8cd-3ae7-4645-95bb-384a51be10df)
 
 Рисунок 2 - Трехмерная модель передней крышки с с пластиковыми деталями
 
