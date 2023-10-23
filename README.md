@@ -117,4 +117,4 @@
 
 **Тестирование:**
 
-Вставить видео
+![Тестирование](https://drive.google.com/file/d/1s3_rQBjPkMFttOHKlrNmcRscF6AJz6oU/view?usp=share_link)
